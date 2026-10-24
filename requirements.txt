@@ -1,2 +1,4 @@
-requests>=2.31.0
-windows-toasts>=1.3.0
+requests
+windows-toasts
+pystray
+Pillow
